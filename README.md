@@ -20,9 +20,9 @@ Perform Below Tasks to complete the assignment:-
 1. Download the dataset: Dataset
 2. Load the dataset.
 3. Perform Below Visualizations.
- * Univariate Analysis
- * Bi - Variate Analysis
- * Multi - Variate Analysis
+ -* Univariate Analysis
+ -* Bi - Variate Analysis
+ -* Multi - Variate Analysis
 4. Perform descriptive statistics on the dataset.
 5. Handle the Missing values.
 6. Find the outliers and replace the outliers
